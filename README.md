@@ -36,7 +36,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yashraut369/SecureImage.git
+git clone https://github.com/yashraut369/-SecureImage-Advanced-Image-Encryption-Decryption-Tool.git
 cd SecureImage
 Install Dependencies
 
